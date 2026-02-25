@@ -1,0 +1,1 @@
+{\n  "name": "apc-system",\n  "private": true,\n  "workspaces": [\n    "packages/*"\n  ]\n}
